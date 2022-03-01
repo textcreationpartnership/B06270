@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true pattern of loyalty: being, the happy agreement betwixt William &amp; Susan. Or, the young Squire's conquest over the beauteous damsel. This damsel dear, her love did chear when ceased to be coy, she gave consent, now true content, is what they both enjoy. To the tune of, Charon make haste; &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685-1688?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06270</idno>
+            <idno type="STC">Wing T2852A</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[71]</idno>
+            <idno type="EEBO-CITATION">99887279</idno>
+            <idno type="PROQUEST">ocm99887279</idno>
+            <idno type="VID">181988</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06270)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181988)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:4[71])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true pattern of loyalty: being, the happy agreement betwixt William &amp; Susan. Or, the young Squire's conquest over the beauteous damsel. This damsel dear, her love did chear when ceased to be coy, she gave consent, now true content, is what they both enjoy. To the tune of, Charon make haste; &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J[osiah]. Blare, at the Looking-Glass on London-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1685-1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "William and Susan they happily meeting ..."</note>
+                  <note>Date, place of publication and publisher's name from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-01</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181988:1"/>
+            <!-- PDF PAGE 61 -->
+            <head>The True Pattern of Loyalty: <hi>Being,</hi> The Happy Agreement Betwixt William &amp; Suſan. <hi>Or,</hi> The Young Squire's Conqueſt over the Beauteous Damſel.</head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>This Damſel dear, her Love did chear</hi>
+                  </l>
+                  <l>
+                     <hi>when ceaſed to be coy,</hi>
+                  </l>
+                  <l>
+                     <hi>She gave conſent, now true content,</hi>
+                  </l>
+                  <l>
+                     <hi>is what they both enjoy.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <opener>
+               <hi>To the Tune of,</hi> Charon make haſte; <hi>&amp;c.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of a lady and gentleman in the grounds of a house</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>
+                  <hi>WIlliam</hi> and <hi>Suſan</hi> they happily meeting,</l>
+               <l>ſtraight thay ſat down by a Rivers ſide,</l>
+               <l>Where I diſcover'd theſe true Lovers greeting</l>
+               <l>
+                  <hi>Suſan,</hi> ſaid he, wilt thou he my Bride,:</l>
+               <l>Why ſhould we any longer tarry,</l>
+               <l>let us in perfect love agree,</l>
+               <l>Here I proteſt if I ever Marry,</l>
+               <l>
+                  <hi>I will have none in the world but thee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I will endue thee with Iewels and treaſure,</l>
+               <l>always maintain thee both neat and brave,</l>
+               <l>There is no Lady enioys greater pleaſure,</l>
+               <l>thou ſhalt have what thy whole heart can crave:</l>
+               <l>Prithee my deareſt do but try me,</l>
+               <l>for I delight in Loyalty,</l>
+               <l>Grant me the bleſſing, and don't deny me,</l>
+               <l>
+                  <hi>ſure I love none in the World but thee.</hi>
+               </l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>depiction of a lady</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of a gentleman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>NOthing but true love alone I require,</l>
+               <l>do not torment me with any frown,</l>
+               <l>I will adorn thee with coſtly attire,</l>
+               <l>there is no Lady in <hi>London</hi> Town</l>
+               <l>That ſhall be able to Out-Vſe thee:</l>
+               <l>never was Man more kind and free,</l>
+               <l>Iewels and other rich Iemms i'le buy thee,</l>
+               <l>
+                  <hi>for I love none in the World but thee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>William</hi> i'de have you to leave of your Wooeing,</l>
+               <l>I have another true love in ſtore,</l>
+               <l>Why ſhould you thus run on the Rock of Ruin,</l>
+               <l>is there not many young Beauties more?</l>
+               <l>Deareſt though there be ne'r ſo many,</l>
+               <l>this is but ſmall content to me,</l>
+               <l>If that I ever do marry any,</l>
+               <l>
+                  <hi>it ſhall be none in the World but thee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For thee i'le ingage in the ſharpeſt Duel,</l>
+               <l>e're any perſon ſhall me abuſe,</l>
+               <l>Thus in the taking away my dear Iewel,</l>
+               <l>as long as I have a life to loſe:</l>
+               <l>I am unworthy of thy favour,</l>
+               <l>if I ſhould then a Coward be,</l>
+               <l>Looſe thee, my deareſt, O dye I had rather</l>
+               <l>
+                  <hi>for I love none in the world but thee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Said ſhe, you have made here a large relation,</l>
+               <l>how you will venture for me the field,</l>
+               <l>Nay like wiſe in what a moſt noble ſtation,</l>
+               <l>you would maintain me, would I but yield,</l>
+               <l>Yet you may happen to deceive me,</l>
+               <l>young-men are often falſe we ſee,</l>
+               <l>
+                  <hi>Suſan</hi> ſaid he, if thou wilt believe me,</l>
+               <l>I love no Creature alive but thee:</l>
+            </lg>
+            <lg>
+               <l>Deareſt I am thy unfeighned pretender;</l>
+               <l>what I was firſt I am ſtill the ſame,</l>
+               <l>All that I have I will freely ſurrender,</l>
+               <l>to thee, or elſe I was much to blame:</l>
+               <l>Sure I can ne'r be ſo ungrateful,</l>
+               <l>as to return a frown on thee</l>
+               <l>There is nothing that I hold ſo hateful,</l>
+               <l>than to be found in diſloyalty.</l>
+            </lg>
+            <p>
+               <hi>The Maidens Reply.</hi>
+            </p>
+            <lg>
+               <l>Love, I no longer can ſtop your proceeding,</l>
+               <l>this with a trembling voice ſhe ſayd</l>
+               <l>My heart is wounded, which now does lye bleeding,</l>
+               <l>of me you have ſurely a conqueſt made:</l>
+               <l>Love is a ſoft and gentle fire,</l>
+               <l>which does compell me to agree,</l>
+               <l>Thou art the man whom I much admire;</l>
+               <l>
+                  <hi>now I love none in the World but thee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Never was creature adorn'd with more graces,</l>
+               <l>then his dear darling who was not coy,</l>
+               <l>And the young Squire with tender Imbraces,</l>
+               <l>in the ſweet Raptures of Love and joy,</l>
+               <l>The which is far beyond expreſſing,</l>
+               <l>my loyal lover rhen ſaid ſhe,</l>
+               <l>No one but thee ſhall enjoy the bleſſing.</l>
+               <l>
+                  <hi>now <hi>I</hi> love none in the World but thee.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>This may be Printed, <hi>R. P.</hi> Printed for <hi>I. Blare,</hi> at the Looking-Glaſs on <hi>London-Bridge.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
